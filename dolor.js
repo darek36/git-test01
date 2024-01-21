@@ -1,5 +1,7 @@
+const VALUE_1 = 10;
+const VALUE_2 = 20;
 console.log('Dolor sit amet!');
-const result = 10 + 20;
+const result = VALUE_1 + VALUE_2;
 console.log("Calculating");
 console.log(result);
-console.log("lorem ipsum");
+console.log("Dolor sit amet");
